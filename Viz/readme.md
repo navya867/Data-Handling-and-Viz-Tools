@@ -29,3 +29,7 @@ Geospatial: A visualization that shows data in map form using different shapes a
 Infographic: A combination of visuals and words that represent data. Usually uses charts or diagrams.
 
 Dashboards: A collection of visualizations and data displayed in one place to help with analyzing and presenting data.
+
+Types of Data
+Numerical Data and 
+Categorical Data
