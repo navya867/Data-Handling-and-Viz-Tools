@@ -15,3 +15,17 @@ disadvantages include:
 Biased or inaccurate information.
 Correlation doesn’t always mean causation.
 Core messages can get lost in translation.
+
+General Types of Visualizations:
+
+Chart: Information presented in a tabular, graphical form with data displayed along two axes. Can be in the form of a graph, diagram, or map. Learn more.
+
+Table: A set of figures displayed in rows and columns. Learn more.
+
+Graph: A diagram of points, lines, segments, curves, or areas that represents certain variables in comparison to each other, usually along two axes at a right angle.
+
+Geospatial: A visualization that shows data in map form using different shapes and colors to show the relationship between pieces of data and specific locations. Learn more.
+
+Infographic: A combination of visuals and words that represent data. Usually uses charts or diagrams.
+
+Dashboards: A collection of visualizations and data displayed in one place to help with analyzing and presenting data.
