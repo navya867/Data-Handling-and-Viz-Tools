@@ -9,3 +9,9 @@ KPIs:The four main categories of Key Performance Indicators (KPIs) used to evalu
 Visuals: tools that bring your data to life. 
 
 Story: need a narrative to tie it all together. 
+
+disadvantages include:
+
+Biased or inaccurate information.
+Correlation doesn’t always mean causation.
+Core messages can get lost in translation.
